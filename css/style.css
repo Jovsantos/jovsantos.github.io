@@ -148,13 +148,9 @@ button {
   background: #000;
   color: white;
   overflow: hidden;
-}
-.container-foo .social-item {
-  display: flex;
-}
-.footer h4 {
   text-align: center;
 }
-.social-item {
-  margin-top: 10px; 
+.social-img {
+  width: 45px;
+  height: 45px;
 }
